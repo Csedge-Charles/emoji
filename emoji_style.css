@@ -1,0 +1,186 @@
+.head {
+    /*Positions the head relative to the body*/
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    
+    /*Sets the color of the container and rounds the corners*/
+    background-color: #F2CF66;
+    border-radius: 50%;
+  
+    /*Sets the size of the container*/
+    width: 250px;
+    height: 260px;
+  }
+  .bandana{
+    position: absolute;
+    /*Positions the head relative to the body*/
+    position:fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-60%, -60%);
+    
+    /*Sets the color of the container and rounds the corners*/
+    background-color: #000000;
+    border-radius: 20%;
+  
+    /*Sets the size of the container*/
+    width: 200px;
+    height: 100px;
+  }
+
+.eye{
+  position: absolute;
+      /*Positions the head relative to the body*/
+      position:fixed;
+      left: 50%;
+      top: 50%;
+      transform: translate(-100%, -50%);
+      
+      /*Sets the color of the container and rounds the corners*/
+      background-color: #ffffff;
+      border-radius: 50%;
+    
+      /*Sets the size of the container*/
+      width: 60px;
+      height: 60px;
+  }
+
+.left-eye{
+  border-color: #000000;
+  border-width: 1px;
+  position: absolute;
+  /*Positions the head relative to the body*/
+  position:fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-200%, -50%);
+  
+  /*Sets the color of the container and rounds the corners*/
+  background-color: #ffffff;
+  border-radius: 50%;
+
+  /*Sets the size of the container*/
+  width: 60px;
+  height: 60px;
+}
+.left-pupil{
+  position: absolute;
+  /*Positions the head relative to the body*/
+  position:fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-400%, -100%);
+  
+  /*Sets the color of the container and rounds the corners*/
+  background-color: #000000;
+  border-radius: 50%;
+
+  /*Sets the size of the container*/
+  width: 20px;
+  height: 20px;
+}
+.pupil{
+  position: absolute;
+  /*Positions the head relative to the body*/
+  position:fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-100%, -100%);
+  
+  /*Sets the color of the container and rounds the corners*/
+  background-color: #000000;
+  border-radius: 50%;
+
+  /*Sets the size of the container*/
+  width: 20px;
+  height: 20px;
+}
+
+.tongue{
+    position: absolute;
+    /*Positions the head relative to the body*/
+    position:fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-100%, 10%);
+    
+    /*Sets the color of the container and rounds the corners*/
+    background-color: #ff9191;
+    border-radius: 30%;
+  
+    /*Sets the size of the container*/
+    width: 160px;
+    height: 20px;
+
+}
+.hat_base{
+  position: absolute;
+  /*Positions the head relative to the body*/
+  position:fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-25%, -1000%);
+  
+  /*Sets the color of the container and rounds the corners*/
+  background-color:chocolate;
+  border-radius: 30%;
+
+  /*Sets the size of the container*/
+  width: 250px;
+  height: 20px;
+}
+.hat{
+  position: absolute;
+  /*Positions the head relative to the body*/
+  position:fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-20%, -200%);
+  
+  /*Sets the color of the container and rounds the corners*/
+  background-color:rgb(109, 20, 20);
+  border-radius: 10%;
+
+  /*Sets the size of the container*/
+  width: 200px;
+  height: 200px;
+}
+.shadow{
+  position: absolute;
+  /*Positions the head relative to the body*/
+  position:fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-100%, 50%);
+  
+  /*Sets the color of the container and rounds the corners*/
+  background-color: #c85252;
+  border-radius: 30%;
+
+  /*Sets the size of the container*/
+  width: 100px;
+  height: 10px;
+
+}
+
+.mouth{
+  position: absolute;
+  /*Positions the head relative to the body*/
+  position:fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-60%, 80%);
+  
+  /*Sets the color of the container and rounds the corners*/
+  background-color: #000000;
+  border-radius: 50%;
+
+  /*Sets the size of the container*/
+  width: 160px;
+  height: 60px;
+}
+.
+  
+  /* write your own CSS rules for the other parts, below! */``
